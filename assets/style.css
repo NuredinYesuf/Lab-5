@@ -6,6 +6,12 @@ header {
     background-color: darkblue;
 } 
 
+
+
+section img {
+    display: block;
+    margin-bottom: 10px;
+}
 nav {
     background-color: white;
     padding: 10px;
